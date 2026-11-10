@@ -1,0 +1,11 @@
+
+streamlit
+google-genai
+python-dotenv
+faster-whisper
+piper-tts
+av==18.1.0
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
